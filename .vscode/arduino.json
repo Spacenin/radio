@@ -1,0 +1,5 @@
+{
+    "sketch": "radio.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
