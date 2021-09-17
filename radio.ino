@@ -1,3 +1,9 @@
+/* Props to 
+  1. Neeraj Rane from Arduino.cc
+  2. Tauno Eric from Arduino.cc
+  3. Lucsmall from github 
+*/
+
 #include <Wire.h>
 #include <Adafruit_SSD1306.h>
 
