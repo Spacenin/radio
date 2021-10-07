@@ -1,7 +1,7 @@
-/* Props to 
-  1. Neeraj Rane from Arduino.cc
-  2. Tauno Eric from Arduino.cc
-  3. Lucsmall from github 
+/* Credit to the following websites for design and code:
+  1. https://create.arduino.cc/projecthub/taunoerik/fm-radio-with-frequency-display-df5bd9
+  2. https://circuitdigest.com/microcontroller-projects/arduino-fm-radio-using-rda5807
+  3. https://create.arduino.cc/projecthub/indoorgeek/fm-radio-using-arduino-and-rda8057m-73a262?ref=search&ref_id=radio&offset=2
 */
 
 #include <Wire.h>
